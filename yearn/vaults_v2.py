@@ -28,6 +28,9 @@ VAULT_VIEWS = [
     "debtRatio",
     "totalDebt",
     "lastReport",
+    "management",
+    "guardian",
+    "governance",
     "managementFee",
     "performanceFee",
 ]
